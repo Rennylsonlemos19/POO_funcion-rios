@@ -1,0 +1,7 @@
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\POO_funcionario.net\POO_funcionario.net\bin\Debug\POO_funcionario.net.exe.config
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\POO_funcionario.net\POO_funcionario.net\bin\Debug\POO_funcionario.net.exe
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\POO_funcionario.net\POO_funcionario.net\bin\Debug\POO_funcionario.net.pdb
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\POO_funcionario.net\POO_funcionario.net\obj\Debug\POO_funcionario.net.csproj.CoreCompileInputs.cache
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\POO_funcionario.net\POO_funcionario.net\obj\Debug\POO_funcionario.net.exe
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\POO_funcionario.net\POO_funcionario.net\obj\Debug\POO_funcionario.net.pdb
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\POO_funcionario.net\POO_funcionario.net\obj\Debug\POO_funcionario.net.csproj.AssemblyReference.cache
